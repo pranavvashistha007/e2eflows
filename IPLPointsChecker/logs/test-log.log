@@ -1,0 +1,1433 @@
+2025-06-26 13:19:20 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-06-26 13:19:25 INFO  WebDriverManager:1220 - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-26 13:19:25 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-26 13:19:48 INFO  WebDriverManager:1220 - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-26 13:19:48 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-26 13:28:25 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-06-26 13:28:27 INFO  WebDriverManager:1220 - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-26 13:28:28 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-26 13:28:44 INFO  PointsTableSteps:33 - Opening IPL 2023 points table webpage...
+2025-06-26 13:28:58 INFO  WebDriverManager:1220 - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-26 13:28:58 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-26 13:49:25 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-06-30 16:17:34 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-06-30 16:28:47 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-06-30 16:36:17 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-06-30 16:37:57 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-07-02 03:01:55 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\test-output\testng-failed.xml
+
+2025-07-03 01:31:40 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\test-output\testng-failed.xml
+
+2025-07-03 02:14:25 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-07-03 02:16:15 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-07-03 02:16:58 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-07-03 02:21:21 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-07-03 02:22:07 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-07-03 02:23:44 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-07-03 02:27:06 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-07-03 02:29:00 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-07-03 02:30:21 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-07-03 02:31:32 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-07-04 14:00:02 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-07-04 14:00:39 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-07-04 14:03:29 INFO  Utils:112 - [TestNG] Running:
+  D:\Program Files (x86)\eclipse workspace new\IPLPointsChecker\testng.xml
+
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 60 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse--459532461\testng-customsuite.xml
+
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-07-06 03:41:17 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:41:17 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.92/win64/chromedriver-win64.zip
+2025-07-06 03:41:24 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2025-07-06 03:41:24 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:41:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@228bda54: 134 ms
+2025-07-06 03:41:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@2e32fc22: 22 ms
+2025-07-06 03:41:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@6e03db1f: 67 ms
+2025-07-06 03:41:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@68699afc: 74 ms
+2025-07-06 03:41:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7da34b26: 12 ms
+2025-07-06 03:41:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@10c47c79: 0 ms
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 44 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 79 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse-139921649\testng-customsuite.xml
+
+2025-07-06 03:41:12 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 96 ms.
+2025-07-06 03:41:17 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:41:17 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.92/win64/chromedriver-win64.zip
+2025-07-06 03:41:23 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2025-07-06 03:41:23 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:41:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@228bda54: 138 ms
+2025-07-06 03:41:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@2e32fc22: 15 ms
+2025-07-06 03:41:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@6e03db1f: 15 ms
+2025-07-06 03:41:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@68699afc: 35 ms
+2025-07-06 03:41:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7da34b26: 17 ms
+2025-07-06 03:41:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@10c47c79: 0 ms
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 17 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse--2000451806\testng-customsuite.xml
+
+2025-07-06 03:41:11 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2025-07-06 03:41:17 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:41:17 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.92/win64/chromedriver-win64.zip
+2025-07-06 03:41:21 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2025-07-06 03:41:23 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:41:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@609e57da: 162 ms
+2025-07-06 03:41:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@7cac93fe: 30 ms
+2025-07-06 03:41:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@79d82f66: 15 ms
+2025-07-06 03:41:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@45adc393: 31 ms
+2025-07-06 03:41:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5b5dce5c: 12 ms
+2025-07-06 03:41:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7f4701b1: 0 ms
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse--1070620984\testng-customsuite.xml
+
+2025-07-06 03:41:43 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-07-06 03:41:43 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:41:43 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:41:46 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@1a22e0ef: 107 ms
+2025-07-06 03:41:46 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4adc663e: 16 ms
+2025-07-06 03:41:46 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@59696551: 23 ms
+2025-07-06 03:41:46 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1de9b505: 21 ms
+2025-07-06 03:41:46 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@445bb139: 14 ms
+2025-07-06 03:41:46 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@b9a77c8: 0 ms
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:41:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse-1084773003\testng-customsuite.xml
+
+2025-07-06 03:41:59 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-07-06 03:42:00 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:42:00 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:42:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@77bb48d5: 139 ms
+2025-07-06 03:42:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@181d8899: 1 ms
+2025-07-06 03:42:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@3a37a501: 15 ms
+2025-07-06 03:42:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1f346ad2: 12 ms
+2025-07-06 03:42:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@524270b8: 8 ms
+2025-07-06 03:42:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4acb7ecc: 0 ms
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:51:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse-311409101\testng-customsuite.xml
+
+2025-07-06 03:51:09 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-07-06 03:51:09 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:51:09 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:51:13 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@4cbc2e3b: 171 ms
+2025-07-06 03:51:13 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@435cc7f9: 31 ms
+2025-07-06 03:51:13 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@446626a7: 19 ms
+2025-07-06 03:51:13 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2c8c16c0: 23 ms
+2025-07-06 03:51:13 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4aa21f9d: 14 ms
+2025-07-06 03:51:13 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@71c17a57: 0 ms
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse--1714529178\testng-customsuite.xml
+
+2025-07-06 03:55:26 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-07-06 03:55:27 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:55:27 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:55:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@6d5c2745: 128 ms
+2025-07-06 03:55:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@44b29496: 1 ms
+2025-07-06 03:55:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@5de6cf3a: 13 ms
+2025-07-06 03:55:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@72e295cc: 8 ms
+2025-07-06 03:55:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2fcd7d3f: 14 ms
+2025-07-06 03:55:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@27e7c77f: 0 ms
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:55:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse-401067106\testng-customsuite.xml
+
+2025-07-06 03:55:51 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-07-06 03:55:52 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:55:52 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:55:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@176f7f3b: 92 ms
+2025-07-06 03:55:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@30ca0779: 1 ms
+2025-07-06 03:55:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@51ec2856: 18 ms
+2025-07-06 03:55:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4b0f2299: 11 ms
+2025-07-06 03:55:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6f1a16fe: 10 ms
+2025-07-06 03:55:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2373ad99: 0 ms
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 12 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse-434186160\testng-customsuite.xml
+
+2025-07-06 03:56:17 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-07-06 03:56:18 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:56:18 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:56:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@68f0f72c: 124 ms
+2025-07-06 03:56:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@3d96fa9e: 0 ms
+2025-07-06 03:56:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@272ce069: 35 ms
+2025-07-06 03:56:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@254f906e: 8 ms
+2025-07-06 03:56:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7afc4db9: 10 ms
+2025-07-06 03:56:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1a1f5f71: 0 ms
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 12 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:56:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse-1637341943\testng-customsuite.xml
+
+2025-07-06 03:56:35 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-07-06 03:56:36 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:56:36 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:56:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@176f7f3b: 99 ms
+2025-07-06 03:56:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@30ca0779: 0 ms
+2025-07-06 03:56:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@51ec2856: 11 ms
+2025-07-06 03:56:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4b0f2299: 9 ms
+2025-07-06 03:56:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6f1a16fe: 8 ms
+2025-07-06 03:56:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2373ad99: 0 ms
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 12 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:03 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse-1251285554\testng-customsuite.xml
+
+2025-07-06 03:57:04 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-07-06 03:57:04 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:57:04 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:57:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@41294371: 152 ms
+2025-07-06 03:57:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4996c99: 1 ms
+2025-07-06 03:57:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@58fef7f7: 19 ms
+2025-07-06 03:57:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@52f57666: 15 ms
+2025-07-06 03:57:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3d7fb838: 16 ms
+2025-07-06 03:57:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1c26273d: 0 ms
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse-1594512222\testng-customsuite.xml
+
+2025-07-06 03:57:17 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-07-06 03:57:17 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:57:18 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:57:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@70e94ecb: 166 ms
+2025-07-06 03:57:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@56cfe111: 1 ms
+2025-07-06 03:57:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@71e4b308: 10 ms
+2025-07-06 03:57:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4b74b35: 9 ms
+2025-07-06 03:57:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@51ec2856: 16 ms
+2025-07-06 03:57:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@714f3da4: 0 ms
+2025-07-06 03:57:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-07-06 03:57:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-07-06 03:57:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:57:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse-1214026208\testng-customsuite.xml
+
+2025-07-06 03:57:41 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-07-06 03:57:41 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:57:41 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:57:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@38b8b6c0: 154 ms
+2025-07-06 03:57:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@58434b19: 19 ms
+2025-07-06 03:57:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@1e9469b8: 26 ms
+2025-07-06 03:57:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6a818392: 51 ms
+2025-07-06 03:57:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@378f002a: 10 ms
+2025-07-06 03:57:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1afd72ef: 0 ms
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse--529873635\testng-customsuite.xml
+
+2025-07-06 03:58:01 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-07-06 03:58:02 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:58:02 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:58:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@3c3c4a71: 131 ms
+2025-07-06 03:58:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@1352434e: 1 ms
+2025-07-06 03:58:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@6e041285: 17 ms
+2025-07-06 03:58:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@64d4f7c7: 20 ms
+2025-07-06 03:58:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2bfb6b49: 7 ms
+2025-07-06 03:58:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1f346ad2: 0 ms
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2025-07-06 03:58:20 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-07-06 03:58:20 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:20 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:20 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:20 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse--1406701054\testng-customsuite.xml
+
+2025-07-06 03:58:20 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-07-06 03:58:20 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:58:20 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:58:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@38b8b6c0: 115 ms
+2025-07-06 03:58:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@58434b19: 24 ms
+2025-07-06 03:58:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@1e9469b8: 36 ms
+2025-07-06 03:58:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6a818392: 40 ms
+2025-07-06 03:58:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@378f002a: 12 ms
+2025-07-06 03:58:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1afd72ef: 0 ms
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:58:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse--1301988057\testng-customsuite.xml
+
+2025-07-06 03:58:59 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-07-06 03:59:00 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:59:00 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:59:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@38b8b6c0: 120 ms
+2025-07-06 03:59:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@58434b19: 22 ms
+2025-07-06 03:59:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@1e9469b8: 17 ms
+2025-07-06 03:59:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6a818392: 16 ms
+2025-07-06 03:59:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@378f002a: 28 ms
+2025-07-06 03:59:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1afd72ef: 0 ms
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse--156374398\testng-customsuite.xml
+
+2025-07-06 03:59:09 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-07-06 03:59:10 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:59:10 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:59:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@29149030: 114 ms
+2025-07-06 03:59:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@3240b2a4: 26 ms
+2025-07-06 03:59:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@26350ea2: 21 ms
+2025-07-06 03:59:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6c841199: 11 ms
+2025-07-06 03:59:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5db6b845: 11 ms
+2025-07-06 03:59:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@378f002a: 0 ms
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse--1884651133\testng-customsuite.xml
+
+2025-07-06 03:59:24 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-07-06 03:59:25 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:59:25 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:59:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@1a1f5f71: 147 ms
+2025-07-06 03:59:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@753aca85: 16 ms
+2025-07-06 03:59:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@3e3315d9: 18 ms
+2025-07-06 03:59:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6d6bbd35: 15 ms
+2025-07-06 03:59:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@489091bd: 22 ms
+2025-07-06 03:59:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@512d6e60: 0 ms
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 03:59:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse-1465418837\testng-customsuite.xml
+
+2025-07-06 03:59:56 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-07-06 03:59:57 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 03:59:57 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 03:59:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@46a145ba: 124 ms
+2025-07-06 03:59:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@79a04e5f: 19 ms
+2025-07-06 03:59:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@8bd86c8: 30 ms
+2025-07-06 03:59:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@79e66b2f: 11 ms
+2025-07-06 03:59:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3b27b497: 15 ms
+2025-07-06 03:59:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@b1534d3: 0 ms
+2025-07-06 04:00:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 04:00:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-06 04:00:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:00:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:00:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:00:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:00:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:00:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:00:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:00:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse-970493834\testng-customsuite.xml
+
+2025-07-06 04:00:29 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2025-07-06 04:00:30 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 04:00:30 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 04:00:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@21505815: 154 ms
+2025-07-06 04:00:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@7e53339: 1 ms
+2025-07-06 04:00:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@181d8899: 13 ms
+2025-07-06 04:00:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@17143b3b: 10 ms
+2025-07-06 04:00:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3ba46e63: 26 ms
+2025-07-06 04:00:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@788ddc1f: 0 ms
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse-1265873720\testng-customsuite.xml
+
+2025-07-06 04:01:17 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2025-07-06 04:01:18 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 04:01:18 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 04:01:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@7ab34619: 147 ms
+2025-07-06 04:01:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@66b59b7d: 23 ms
+2025-07-06 04:01:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@4fa9ab6: 21 ms
+2025-07-06 04:01:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@17273273: 12 ms
+2025-07-06 04:01:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@b1534d3: 21 ms
+2025-07-06 04:01:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3c74aa0d: 0 ms
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse--102647470\testng-customsuite.xml
+
+2025-07-06 04:01:38 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-07-06 04:01:39 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 04:01:39 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 04:01:41 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@29149030: 159 ms
+2025-07-06 04:01:41 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@3240b2a4: 22 ms
+2025-07-06 04:01:41 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@26350ea2: 26 ms
+2025-07-06 04:01:41 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6c841199: 34 ms
+2025-07-06 04:01:41 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5db6b845: 12 ms
+2025-07-06 04:01:41 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@378f002a: 0 ms
+2025-07-06 04:01:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+2025-07-06 04:01:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-07-06 04:01:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:01:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse-1949633812\testng-customsuite.xml
+
+2025-07-06 04:01:56 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 47 ms.
+2025-07-06 04:01:58 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 04:01:58 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 04:02:03 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@3c3c4a71: 114 ms
+2025-07-06 04:02:03 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@1352434e: 3 ms
+2025-07-06 04:02:03 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@6e041285: 10 ms
+2025-07-06 04:02:03 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@64d4f7c7: 11 ms
+2025-07-06 04:02:03 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2bfb6b49: 9 ms
+2025-07-06 04:02:03 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1f346ad2: 0 ms
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:02:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse--118178632\testng-customsuite.xml
+
+2025-07-06 04:02:47 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-07-06 04:02:48 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 04:02:48 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 04:02:50 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@439b15f2: 164 ms
+2025-07-06 04:02:50 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@7ab34619: 16 ms
+2025-07-06 04:02:50 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@7f5538a1: 17 ms
+2025-07-06 04:02:50 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3dd31157: 10 ms
+2025-07-06 04:02:50 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@8bd86c8: 20 ms
+2025-07-06 04:02:50 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4fa9ab6: 0 ms
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse--1733723940\testng-customsuite.xml
+
+2025-07-06 04:03:02 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-07-06 04:03:03 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 04:03:03 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 04:03:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@117d32e: 159 ms
+2025-07-06 04:03:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@267dc982: 23 ms
+2025-07-06 04:03:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@54e02f6a: 41 ms
+2025-07-06 04:03:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4acb7ecc: 17 ms
+2025-07-06 04:03:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@67514bdd: 13 ms
+2025-07-06 04:03:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3b920bdc: 0 ms
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:03:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse-1011105362\testng-customsuite.xml
+
+2025-07-06 04:03:22 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-07-06 04:03:23 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 04:03:23 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 04:03:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@ccf91df: 105 ms
+2025-07-06 04:03:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@6e041285: 39 ms
+2025-07-06 04:03:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@64d4f7c7: 34 ms
+2025-07-06 04:03:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@524270b8: 16 ms
+2025-07-06 04:03:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1a22e0ef: 11 ms
+2025-07-06 04:03:25 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@67514bdd: 0 ms
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse--1357131387\testng-customsuite.xml
+
+2025-07-06 04:04:16 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-07-06 04:04:17 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 04:04:17 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 04:04:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@7a8b9166: 177 ms
+2025-07-06 04:04:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4acc5dff: 1 ms
+2025-07-06 04:04:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@23f86d8a: 12 ms
+2025-07-06 04:04:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2bc426f0: 12 ms
+2025-07-06 04:04:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@c2584d3: 13 ms
+2025-07-06 04:04:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6fa0450e: 0 ms
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse-1788206195\testng-customsuite.xml
+
+2025-07-06 04:04:28 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2025-07-06 04:04:28 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 04:04:28 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 04:04:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@7a8b9166: 223 ms
+2025-07-06 04:04:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4acc5dff: 1 ms
+2025-07-06 04:04:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@23f86d8a: 9 ms
+2025-07-06 04:04:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2bc426f0: 9 ms
+2025-07-06 04:04:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@c2584d3: 9 ms
+2025-07-06 04:04:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6fa0450e: 0 ms
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:04:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse--1102550209\testng-customsuite.xml
+
+2025-07-06 04:04:58 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2025-07-06 04:04:59 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 04:04:59 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 04:05:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@5793b87: 103 ms
+2025-07-06 04:05:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@12704e15: 1 ms
+2025-07-06 04:05:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@7a360554: 13 ms
+2025-07-06 04:05:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7b676112: 9 ms
+2025-07-06 04:05:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7f93dd4e: 5 ms
+2025-07-06 04:05:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5ad5be4a: 0 ms
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse--352414092\testng-customsuite.xml
+
+2025-07-06 04:10:16 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-07-06 04:10:17 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 04:10:17 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 04:10:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@6e041285: 97 ms
+2025-07-06 04:10:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@267dc982: 2 ms
+2025-07-06 04:10:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@268cbb86: 9 ms
+2025-07-06 04:10:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1a1f5f71: 8 ms
+2025-07-06 04:10:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@68868328: 10 ms
+2025-07-06 04:10:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@173a6728: 1 ms
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:10:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse--1057628177\testng-customsuite.xml
+
+2025-07-06 04:10:41 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-07-06 04:10:42 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 04:10:42 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 04:10:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@315f09ef: 156 ms
+2025-07-06 04:10:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@3a66e67e: 1 ms
+2025-07-06 04:10:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@3c3c4a71: 14 ms
+2025-07-06 04:10:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@439b15f2: 14 ms
+2025-07-06 04:10:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7a583586: 11 ms
+2025-07-06 04:10:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3a26ec8d: 0 ms
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-06 04:11:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Pranav\AppData\Local\Temp\testng-eclipse--2057959993\testng-customsuite.xml
+
+2025-07-06 04:11:02 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-07-06 04:11:03 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-06 04:11:03 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-06 04:11:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@52f57666: 94 ms
+2025-07-06 04:11:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@6e041285: 1 ms
+2025-07-06 04:11:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2bc378f7: 11 ms
+2025-07-06 04:11:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7afc4db9: 13 ms
+2025-07-06 04:11:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@38b8b6c0: 11 ms
+2025-07-06 04:11:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@68868328: 0 ms
+2025-07-16 15:15:17 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.157 (resolved driver for Chrome 138)
+2025-07-16 15:15:17 INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.157/win64/chromedriver-win64.zip
+2025-07-16 15:15:20 INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+2025-07-16 15:15:21 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.157\chromedriver.exe
+2025-07-17 01:25:18 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.157 (resolved driver for Chrome 138)
+2025-07-17 01:25:18 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.157\chromedriver.exe
+2025-07-17 01:29:00 INFO  WebDriverManager:1220 - Using chromedriver 138.0.7204.157 (resolved driver for Chrome 138)
+2025-07-17 01:29:00 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Pranav\.cache\selenium\chromedriver\win64\138.0.7204.157\chromedriver.exe
